@@ -1,7 +1,7 @@
 {
   "name": "atom-selection-length",
   "description": "Show tooltips of text length of every selection",
-  "version": "0.1.0-1",
+  "version": "0.1.0-3",
 
   "license": "MIT",
   "repository": "https://github.com/sceext2/atom-selection-length",
