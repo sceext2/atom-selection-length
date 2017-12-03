@@ -7,7 +7,7 @@
 Show tooltips of text length of every selection in
 [Atom text editor](https://atom.io/).
 
-TODO
+![UI](https://github.com/sceext2/atom-selection-length/blob/master/doc/p/atom_selection_length.png)
 
 
 ## LICENSE
