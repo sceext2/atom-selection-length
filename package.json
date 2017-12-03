@@ -1,0 +1,15 @@
+{
+  "name": "atom-selection-length",
+  "description": "Show tooltips of text length of every selection",
+  "version": "0.1.0-1",
+
+  "license": "MIT",
+  "repository": "https://github.com/sceext2/atom-selection-length",
+  "engines": {
+    "atom": "^1.22.1"
+  },
+  "dependencies": {
+  },
+
+  "main": "./index.coffee"
+}
